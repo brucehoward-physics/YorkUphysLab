@@ -4,7 +4,7 @@ This package includes the required drivers to control some of the hardwares in p
 
 ## How to install
 
-```pip install --no-cache-dir --upgrade YorkUphysLab```
+```pip install --no-cache-dir --upgrade YorkUphysLabV2```
 
 ## How to use
 
@@ -18,3 +18,7 @@ Laboratory Technologist
 Department of Physics & Astronomy
 Faculty of Science | YORK UNIVERSITY
 4700 Keele Street, Toronto, Ontario, Canada M3J 1P3
+
+## Maintained in V2 by:
+
+Bruce Howard, Ph.D.

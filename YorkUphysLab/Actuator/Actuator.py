@@ -1,5 +1,5 @@
 import nidaqmx
-from YorkUphysLab.GwINSTEK import GPD as PSU
+from YorkUphysLab.GwINSTEK import GPD3303D as PSU
 import time
 
 
